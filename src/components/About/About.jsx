@@ -24,7 +24,7 @@ import { Link as RouterLink } from 'react-router-dom';
 import { MdCheckCircle, MdAccessTime } from 'react-icons/md';
 import { FaGraduationCap, FaUsers, FaHeart, FaFlag } from 'react-icons/fa';
 import background from '../../assets/background.jpeg';
-import logo from '../../assets/logo.png';
+import logo from '../../assets/Logo.png';
 import represent from '../../assets/represent.jpeg';
 import perfilKid from '../../assets/perfiles/perfil-niño.jpg';
 import profileTeacher from '../../assets/perfiles/perfil-docente.jpg';
